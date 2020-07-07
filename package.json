@@ -1,0 +1,25 @@
+{
+  "name": "manoj997.github.io",
+  "version": "1.0.0",
+  "description": "Manoj Showcase Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoj997/manoj997.github.io.git"
+  },
+  "author": "Manoj Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manoj997/manoj997.github.io/issues"
+  },
+  "homepage": "https://github.com/manoj997/manoj997.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0",
+    "serve-favicon": "^2.5.0"
+  }
+}
