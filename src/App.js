@@ -10,6 +10,9 @@ function App() {
         <p>
         பொறுமையா இரு. செஞ்சிட்டு இருக்கேன்
         </p>
+        <p>
+        හදාගෙන ඉන්නෙ! පොඩ්ඩක් ඉවසපන්
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
